@@ -1,5 +1,4 @@
 # aloe-vera
-AJL Competition: Inclusive Dermatology Model
 ---
 
 # Inclusive Dermatology AI
