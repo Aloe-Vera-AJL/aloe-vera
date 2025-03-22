@@ -33,7 +33,7 @@ Build an inclusive machine learning model for dermatology that performs well acr
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/username/aloe-vera.git
+   git clone [https://github.com/username/aloe-vera.git](https://github.com/Aloe-Vera-AJL/aloe-vera/tree/main)](https://github.com/Aloe-Vera-AJL)
    ```
 
 2. **Install dependencies:**
