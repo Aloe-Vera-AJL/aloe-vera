@@ -96,7 +96,7 @@ The images in this dataset are sourced from two reputable dermatology websites, 
 
 **Model(s) used:**
 - We employed a **CNN model with transfer learning**. We fine-tuned the model on the competition dataset.
-- 
+
 **Feature selection and hyperparameter tuning:**
 - We focused on image features and used **data augmentation** to enhance model performance.
 - Hyperparameters such as learning rate and batch size were tuned using grid search.
