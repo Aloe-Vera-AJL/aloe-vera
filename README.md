@@ -11,7 +11,7 @@ Build an inclusive machine learning model for dermatology that performs well acr
 | Aleena Sultan  | Model Development, Data Exploration |
 | Journei Ferguson | Data Preprocessing, Augmentation |
 | Sara Wang      | Fairness Analysis, GitHub Write-Up |
-| Thienkim Nguyen |  |
+| Thienkim Nguyen | Data Preprocessing, Augmentation, Model Evaluating |
 | Trisha Chinnimeni | |
 
 ---
