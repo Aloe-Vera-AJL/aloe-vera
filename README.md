@@ -110,7 +110,7 @@ The images in this dataset are sourced from two reputable dermatology websites, 
 ## **📈 Results & Key Findings**
 
 **Performance metrics:**
-- Our model achieved an **F1 score of *0.02498* 
+- Our model achieved an **F1 score of *0.02498* **
 
 **Model performance across different skin tones:**
 - The model performed better on lighter skin tones, but after applying augmentation, we saw improvements in the accuracy for darker skin tones as well.
