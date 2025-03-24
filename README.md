@@ -9,10 +9,10 @@ Build an inclusive machine learning model for dermatology that performs well acr
 | GitHub Handle  | Contribution |
 | -------------- | ----------- |
 | Aleena Sultan  | Model Development, Data Exploration |
-| Journei Ferguson | Data Preprocessing, Augmentation |
 | Sara Wang      | Fairness Analysis, GitHub Write-Up |
 | Thienkim Nguyen | Data Preprocessing, Augmentation, Model Evaluating |
-| Trisha Chinnimeni | |
+| Trisha Chinnimeni | Data Preprocessing, Model Exploration|
+| Journei Ferguson | N/A|
 
 ---
 
@@ -139,11 +139,11 @@ The images in this dataset are sourced from two reputable dermatology websites, 
 ## **🚀 Next Steps & Future Improvements**
 
 * **Limitations of our model:**
-   - 
+   - Did not subsribe well to the testing set despite reasonable performance on training/validation sets, and model needs more complexity.
 * **What would you do differently with more time/resources?**
-   - 
+   - Explore more models, more testing and Kaggle attempts to try to figure out the large drop in validation a testing set.
 * **What additional datasets or techniques would you explore?**
-   - 
+   - Domain-Adversarial Neural Network.
 
 ---
 
