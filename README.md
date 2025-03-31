@@ -142,16 +142,9 @@ The images in this dataset are sourced from two reputable dermatology websites, 
    - Did not subsribe well to the testing set despite reasonable performance on training/validation sets, and model needs more complexity.
 * **What would you do differently with more time/resources?**
    - Explore more models, more testing and Kaggle attempts to try to figure out the large drop in validation a testing set.
+   - Explored more of the data by creating visualizations to find patterns
+   - Add more layers to the neural network
 * **What additional datasets or techniques would you explore?**
    - Domain-Adversarial Neural Network.
-
----
-
-
-### Collaboration Tools
-
-- Notion Teamspace: [Spring AI Studio Sprint Planning]
-- GitHub Repository: [Link to Team GitHub Repo] 
-- Google Colab Notebook: [Link to Team's Shared Colab Notebook]  
-- Slack Channel: [Link to Team’s Slack Channel]
+   - Balancing classes
 
